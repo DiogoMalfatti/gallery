@@ -44,3 +44,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Usei isto
+
+npx create-react-app (nome_do_projeto) --template typescript
+
+npm install styled-components
+
+npm install -D @types/styled-components
+
+npm install uuid [lib usada para gerar hashs aleatórias]
+
+npm install -D @types/uuid
+
+npm install firebase
